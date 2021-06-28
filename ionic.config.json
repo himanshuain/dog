@@ -1,0 +1,8 @@
+{
+  "name": "dog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "37e37549"
+}
